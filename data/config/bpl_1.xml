@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plan>
+  <id>1</id>
+  <lang></lang>
+  <title>Mid-page ad block</title>
+  <form>sequential</form>
+  <width>1575</width>
+  <height>270</height>
+  <banners>
+    <banners_item>
+      <id>1</id>
+      <title>Mid-page advertisement</title>
+      <clid>1</clid>
+      <file_name>banner.png</file_name>
+      <imageforswf>about.png</imageforswf>
+      <file_ext>png</file_ext>
+      <file_mime>image/png</file_mime>
+      <file_width>1110</file_width>
+      <file_height>270</file_height>
+      <file_alt></file_alt>
+      <file_click>http://webnhanh.vn</file_click>
+      <target>_blank</target>
+      <bannerhtml></bannerhtml>
+      <publ_time>1635516600</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+  </banners>
+</plan>

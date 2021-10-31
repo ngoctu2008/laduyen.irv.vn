@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plan>
+  <id>4</id>
+  <lang></lang>
+  <title>Banner</title>
+  <form>sequential</form>
+  <width>750</width>
+  <height>250</height>
+  <banners>
+    <banners_item>
+      <id>3</id>
+      <title>1</title>
+      <clid>1</clid>
+      <file_name>banner_coltab3_1.png</file_name>
+      <imageforswf></imageforswf>
+      <file_ext>png</file_ext>
+      <file_mime>image/png</file_mime>
+      <file_width>555</file_width>
+      <file_height>160</file_height>
+      <file_alt></file_alt>
+      <file_click></file_click>
+      <target>_blank</target>
+      <bannerhtml></bannerhtml>
+      <publ_time>1635686130</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+    <banners_item>
+      <id>4</id>
+      <title>2</title>
+      <clid>1</clid>
+      <file_name>banner_coltab3_2.png</file_name>
+      <imageforswf></imageforswf>
+      <file_ext>png</file_ext>
+      <file_mime>image/png</file_mime>
+      <file_width>555</file_width>
+      <file_height>160</file_height>
+      <file_alt></file_alt>
+      <file_click></file_click>
+      <target>_blank</target>
+      <bannerhtml></bannerhtml>
+      <publ_time>1635686147</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+  </banners>
+</plan>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plan>
+  <id>5</id>
+  <lang></lang>
+  <title>Hải sản</title>
+  <form>random_one</form>
+  <width>250</width>
+  <height>250</height>
+  <banners>
+    <banners_item>
+      <id>5</id>
+      <title>hải sản</title>
+      <clid>1</clid>
+      <file_name>banner_coll_1.jpg</file_name>
+      <imageforswf></imageforswf>
+      <file_ext>png</file_ext>
+      <file_mime>image/png</file_mime>
+      <file_width>387</file_width>
+      <file_height>218</file_height>
+      <file_alt></file_alt>
+      <file_click></file_click>
+      <target>_blank</target>
+      <bannerhtml></bannerhtml>
+      <publ_time>1635686400</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+  </banners>
+</plan>
